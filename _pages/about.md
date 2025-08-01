@@ -77,7 +77,7 @@ redirect_from:
 
 <span class='anchor' id='lwsg'></span>
 # 🏛️ 论文审稿
--	*2025.10.31-2026.5.31*，担任《Maritime Policy & Management》（IF=3.6, JCR SSCI Q2）特刊“AI-Driven in Maritime Management”客座编辑。
+-	*2025.10.31-2026.5.31*，担任《Maritime Policy & Management》（IF=3.6, JCR SSCI Q2）特刊“<a href="https://lhjdmu.github.io/images/mpmsi.jpg" download="beautiful_cat.jpg">AI-Driven in Maritime Management</a>”客座编辑。
 - 审稿人《Journal of Environmental Management》（IF=8.4, JCR Q1, 中科院二区Top）
 -	审稿人《Ocean Engineering》（IF=5.5, JCR Q1, 中科院二区Top）
 -	审稿人《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
