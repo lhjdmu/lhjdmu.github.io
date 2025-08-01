@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 李海江 副教授
 大连海事大学硕士生导师，大连市高层次人才（青年才俊）。作为负责人，主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
 
-所属院系：航运经济与管理学院
+所属院系：航运经济与管理学院 <a href="http://www.cicts-dmu.com/">综合交通运输协同创新中心</a><br>
 办公邮箱：haijiang@dlmu.edu.cn <br>
 办公地址：大连海事大学（大连市凌海路1号） 远望楼<br>
 个人主页：<a href="https://lhjdmu.github.io/">https://lhjdmu.github.io/</a>
@@ -66,7 +66,6 @@ redirect_from:
 - 国家级：水路交通控制全国重点实验室(大连)
 - 省部级：综合交通运输智能技术与装备教育部工程研究中心[[网站]](https://gczx.portal.dasc.org.cn/)，党建工作部，部长
 - 省部级：辽宁省综合交通运输大数据重点实验室
-- 省部级：辽宁省教育厅高等学校协同创新中心（大连海事大学综合交通运输协同创新中心）
 - 省部级：大连东北亚国际航运中心研究院[[网站]](http://www.dasc.org.cn/)
 
 <span class='anchor' id='-ryjx'></span>
