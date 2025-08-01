@@ -17,19 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+1991年12月生，河北省张家口人，大连海事大学副教授、硕士生导师，大连市高层次人才（青年才俊）。作为负责人，主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项目。受理/授权发明专利3项，登记软件著作权3项。
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
-
+办公邮箱：haijiang@dlmu.edu.cn
+办公地址：大连海事大学（大连市凌海路1号） 远望楼
 
 <span class='anchor' id='-xl'></span>
 
