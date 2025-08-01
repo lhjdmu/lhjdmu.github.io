@@ -38,32 +38,14 @@ redirect_from:
 加校徽的代码 <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a>
 -->
 
-# 📝 学术论文
-## 第一作者论文
----
--	`Li Haijiang`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J]. Ocean Engineering, 2025, 321: 120454. (SCI Q1)
-[[网页]](https://doi.org/10.1016/j.oceaneng.2025.120454) 
+# 📝 代表性学术论文
 
-
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
-
-</div>
-</div>
-
-
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
-
-
-
-
-### 中文
----
-
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
+-	`Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J]. <b>Ocean Engineering<\b>, 2025, 321: 120454. (SCI Q1)
+[[网页]](https://doi.org/10.1016/j.oceaneng.2025.120454)
+-	`Li Haijiang*`, Zhang Xin, Jia Peng, et al. Research on the Pattern and Evolution Characteristics of Global Dry Bulk Shipping Network Driven by Big Data[J]. <b>Journal of Marine Science and Engineering<\b>, 2025, 13(1): 147. (SCI Q2)
+[[网页]](https://doi.org/10.3390/jmse13010147)
+-	`Li Haijiang`, Jia Peng, Wang Xinjian, et al. Ship carbon dioxide emission estimation in coastal domestic emission control areas using high spatial-temporal resolution data: A China case[J]. <b>Ocean & Coastal Management<\b>, 2023, 232: 106419. (SCI Q1)
+[[网页]](https://doi.org/10.1016/j.ocecoaman.2022.106419)
 
 
 ### 专利
