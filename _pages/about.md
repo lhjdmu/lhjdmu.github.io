@@ -31,7 +31,7 @@ redirect_from:
 - 航海仿真：流体物理仿真、三维渲染
 
 <span class='anchor' id='-zsfx'></span>
-# 📊 招生方向
+# 🎓 招生方向
 1.<b>全日制学术型硕士</b><br>
 - 综合交通运输协同创新中心：综合交通运输科学与工程（0823Z4），1-2名/年<br>
 - 航运经济与管理学院：工商管理（120200），1名/年
@@ -77,7 +77,7 @@ redirect_from:
 - 科学技术部，国家重点研发技术项目，多式联运智能集成技术与装备开发，2019-2022，9779W，技术骨干.
 
 <span class='anchor' id='-kypt'></span>
-# 📃 所属科研平台
+# 🏢 所属科研平台
 - 国家级：水路交通控制全国重点实验室(大连)
 - 省部级：综合交通运输智能技术与装备教育部工程研究中心[[网站]](https://gczx.portal.dasc.org.cn/)，党建工作部，部长
 - 省部级：辽宁省综合交通运输大数据重点实验室
@@ -91,10 +91,9 @@ redirect_from:
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践.
 
 <span class='anchor' id='-lwsg'></span>
-# 🏛️ 论文审稿
+# 📰 论文审稿
 -	*2025.10.31-2026.5.31*，担任《Maritime Policy & Management》（IF=3.6, JCR SSCI Q2）特刊“<a href="https://lhjdmu.github.io/images/mpmsi.jpg" download="beautiful_cat.jpg">AI-Driven in Maritime Management</a>”客座编辑。
 - 审稿人《Journal of Environmental Management》（IF=8.4, JCR Q1, 中科院二区Top）
 -	审稿人《Ocean Engineering》（IF=5.5, JCR Q1, 中科院二区Top）
 -	审稿人《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
 -	审稿人《Journal of Marine Science and Engineering》（IF=2.8, JCR Q2）
-
