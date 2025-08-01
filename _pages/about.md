@@ -16,9 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👨‍🎓 个人简介
-1991年12月生，河北省张家口人，大连海事大学副教授、硕士生导师，大连市高层次人才（青年才俊）。作为负责人，主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
+# 👨‍🎓 李海江 副教授
+大连海事大学硕士生导师，大连市高层次人才（青年才俊）。作为负责人，主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
 
+所属院系：航运经济与管理学院
 办公邮箱：haijiang@dlmu.edu.cn <br>
 办公地址：大连海事大学（大连市凌海路1号） 远望楼<br>
 个人主页：<a href="https://lhjdmu.github.io/">https://lhjdmu.github.io/</a>
@@ -56,25 +57,32 @@ redirect_from:
 <span class='anchor' id='-kyxm'></span>
 # 📃 代表性科研项目
 - 科学技术部, 国家重点研发计划项目子课题, 知识驱动的协同群体智能求解器设计, 2023, 80W, `主持`.
-- 辽宁省社会科学规划基金办公室，辽宁省社会科学规划基金项目(<i><b>重点项目</b></i>),“双碳”战略下大数据驱动的辽宁港口减排策略研究, 2021, 2W, `主持`.
+- 辽宁省社会科学规划基金办公室，辽宁省社会科学规划基金项目(<b>重点项目</b>),“双碳”战略下大数据驱动的辽宁港口减排策略研究, 2021, 2W, `主持`.
 - 国家自然科学基金委员会, 国家自然科学基金面上项目, 一体化运营格局下区域港群集约优化及治理策略研究, 2022-2025，48W, 技术骨干.
 - 科学技术部，国家重点研发技术项目，多式联运智能集成技术与装备开发，2019-2022，9779W，技术骨干.
-- 
+
+<span class='anchor' id='-kypt'></span>
+# 📃 所属科研平台
+- 国家级：水路交通控制全国重点实验室(大连)
+- 省部级：综合交通运输智能技术与装备教育部工程研究中心[[网站]](https://gczx.portal.dasc.org.cn/)，党建工作部，部长
+- 省部级：辽宁省综合交通运输大数据重点实验室
+- 省部级：辽宁省教育厅高等学校协同创新中心（大连海事大学综合交通运输协同创新中心）
+- 省部级：大连东北亚国际航运中心研究院[[网站]](http://www.dasc.org.cn/)
 
 <span class='anchor' id='-ryjx'></span>
 # 🏅 荣誉奖项
-- *2025.02* 荣获 中国航海学会科技进步`一等奖`，<i><b>船舶排放全海域“监-管-控”关键技术及系统研发与应用</b></i>.[[新闻]](https://news.dlmu.edu.cn/info/1356/784377.htm)
-- *2024.12* 荣获 中国交通运输协会科技进步`特等奖`，<i><b>海公铁联运数智服务关键技术及装备研发与应用</b></i>.[[新闻]](https://news.dlmu.edu.cn/info/1356/783107.htm)
-- *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，<i><b>面向化工品公铁联运的全链式数智服务技术与系统装备</b></i>.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
+- *2025.02* 荣获 中国航海学会科技进步`一等奖`，船舶排放全海域“监-管-控”关键技术及系统研发与应用.[[新闻]](https://news.dlmu.edu.cn/info/1356/784377.htm)
+- *2024.12* 荣获 中国交通运输协会科技进步`特等奖`，海公铁联运数智服务关键技术及装备研发与应用.[[新闻]](https://news.dlmu.edu.cn/info/1356/783107.htm)
+- *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，<i><b>“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践</b></i>.
 
 <span class='anchor' id='lwsg'></span>
 # 🏛️ 论文审稿
 -	*2025.10.31-2026.5.31*，担任《Maritime Policy & Management》（IF=3.6, JCR SSCI Q2）特刊“AI-Driven in Maritime Management”客座编辑。
--	《Journal of Environmental Management》（IF=8.4, JCR Q1, 中科院二区Top）
--	《Ocean Engineering》（IF=5.5, JCR Q1, 中科院二区Top）
--	《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
--	《Journal of Marine Science and Engineering》（IF=2.8, JCR Q2）
+- 审稿人《Journal of Environmental Management》（IF=8.4, JCR Q1, 中科院二区Top）
+-	审稿人《Ocean Engineering》（IF=5.5, JCR Q1, 中科院二区Top）
+-	审稿人《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
+-	审稿人《Journal of Marine Science and Engineering》（IF=2.8, JCR Q2）
 
 <span class='anchor' id='-gzsx'></span>
 # 💻 工作实习
