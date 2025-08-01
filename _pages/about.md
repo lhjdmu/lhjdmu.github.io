@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 李海江 副教授
-大连海事大学硕士生导师，大连市高层次人才（青年才俊）。作为负责人，主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
+大连海事大学硕士生导师，大连市高层次人才（青年才俊）。主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
 
 所属院系：航运经济与管理学院 <a href="http://www.cicts-dmu.com/">综合交通运输协同创新中心</a><br>
 办公邮箱：haijiang@dlmu.edu.cn <br>
@@ -39,10 +39,8 @@ redirect_from:
 
 <span class='anchor' id='-jskc'></span>
 # 📐 讲授课程
-- *2020.12 - 2022.12*, 师资博士后，大连海事大学，管理科学与工程博士后流动站
-- *2015.09 - 2020.09*, 工学博士，大连海事大学，航海学院，交通信息工程及控制专业
-- *2013.09 - 2015.07*, 工程硕士，大连海事大学，航海学院，交通运输工程专业（推免）
-- *2009.09 - 2013.07*, 工学学士，大连海事大学，航海学院，航海技术（英语强化）
+- 本科生课程：智慧供应链（大二上）、冷链供应链（大三上）
+- 研究生课程：Python数据分析与可视化（研一上）
 
 <span class='anchor' id='-xslw'></span>
 # 📝 代表性学术论文
