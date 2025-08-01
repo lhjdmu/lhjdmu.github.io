@@ -24,11 +24,21 @@ redirect_from:
 办公地址：大连海事大学（大连市凌海路1号） 远望楼<br>
 个人主页：<a href="https://lhjdmu.github.io/">https://lhjdmu.github.io/</a>
 
-<span class='anchor' id='-zsfx'></span>
-# 📊 招生/研究方向
+<span class='anchor' id='-yjfx'></span>
+# 📊 研究方向
 - 智慧航运：船舶排放、海上航路网络、航运大数据、智能船舶避碰
 - 智慧港口：港口作业调度优化
 - 航海仿真：流体物理仿真、三维渲染
+
+<span class='anchor' id='-zsfx'></span>
+# 📊 招生方向
+## 全日制学术型硕士
+- 综合交通运输协同创新中心：综合交通运输科学与工程（0823Z4），1-2名/年
+- 航运经济与管理学院：工商管理（120200），1名/年
+## 全日制专业型硕士
+- 综合交通运输协同创新中心：交通运输（086100），3-4名/年
+## 非全日制硕士生MBA
+- 航运经济与管理学院：工商管理（125100），1名/年
 
 <span class='anchor' id='-jyjl'></span>
 # 🎓 教育经历
