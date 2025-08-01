@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-1991年12月生，河北省张家口人，大连海事大学副教授、硕士生导师，大连市高层次人才（青年才俊）。作为负责人，主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项目。受理/授权发明专利3项，登记软件著作权3项。
+1991年12月生，河北省张家口人，大连海事大学副教授、硕士生导师，大连市高层次人才（青年才俊）。作为负责人，主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
 
 办公邮箱：haijiang@dlmu.edu.cn <br>
 办公地址：大连海事大学（大连市凌海路1号） 远望楼
