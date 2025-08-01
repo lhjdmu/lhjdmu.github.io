@@ -2,13 +2,13 @@
 # main links links
 main:
   - title: "简介"
-    url: "/lhjdmu.github.io/#about-me"
+    url: "#about-me"
 
   - title: "研究方向"
-    url: "/lhjdmu.github.io/#-yjfx"
+    url: "#-yjfx"
 
   - title: "招生方向"
-    url: "/lhjdmu.github.io/#-zsfx"
+    url: "#-zsfx"
 
   - title: "教育经历"
     url: "#-jyjl"
