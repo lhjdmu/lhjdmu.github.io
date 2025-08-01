@@ -22,23 +22,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "李海江 副教授"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
-  uri              : 
+  bio              : "大连海事大学"
+  location         : "辽宁 大连"
+  # employer         : #"Hefei General Machinery Research Institute"
+  # pubmed           : 
+  # googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  email            : "haijiang@dlmu.edu.cn"
+  #researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  uri              : https://lhjdmu.github.io/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "lhjdmu"
   google_plus      :
   keybase          :
   instagram        :
