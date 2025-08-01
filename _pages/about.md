@@ -24,20 +24,25 @@ redirect_from:
 办公地址：大连海事大学（大连市凌海路1号） 远望楼<br>
 个人主页：<a href="https://lhjdmu.github.io/">https://lhjdmu.github.io/</a>
 
-<span class='anchor' id='-yjfx'></span>
-# 📊 研究方向
+<span class='anchor' id='-zsfx'></span>
+# 📊 招生/研究方向
 - 智慧航运：船舶排放、海上航路网络、航运大数据、智能船舶避碰
 - 智慧港口：港口作业调度优化
 - 航海仿真：流体物理仿真、三维渲染
 
 <span class='anchor' id='-jyjl'></span>
 # 🎓 教育经历
+- *2020.12 - 2022.12*, 师资博士后，大连海事大学，管理科学与工程博士后流动站
 - *2015.09 - 2020.09*, 工学博士，大连海事大学，航海学院，交通信息工程及控制专业
 - *2013.09 - 2015.07*, 工程硕士，大连海事大学，航海学院，交通运输工程专业（推免）
 - *2009.09 - 2013.07*, 工学学士，大连海事大学，航海学院，航海技术（英语强化）
-<!-- 注释
-加校徽的代码 <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a>
--->
+
+<span class='anchor' id='-jskc'></span>
+# 📐 讲授课程
+- *2020.12 - 2022.12*, 师资博士后，大连海事大学，管理科学与工程博士后流动站
+- *2015.09 - 2020.09*, 工学博士，大连海事大学，航海学院，交通信息工程及控制专业
+- *2013.09 - 2015.07*, 工程硕士，大连海事大学，航海学院，交通运输工程专业（推免）
+- *2009.09 - 2013.07*, 工学学士，大连海事大学，航海学院，航海技术（英语强化）
 
 <span class='anchor' id='-xslw'></span>
 # 📝 代表性学术论文
@@ -75,7 +80,7 @@ redirect_from:
 - *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，<i><b>“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践</b></i>.
 
-<span class='anchor' id='lwsg'></span>
+<span class='anchor' id='-lwsg'></span>
 # 🏛️ 论文审稿
 -	*2025.10.31-2026.5.31*，担任《Maritime Policy & Management》（IF=3.6, JCR SSCI Q2）特刊“<a href="https://lhjdmu.github.io/images/mpmsi.jpg" download="beautiful_cat.jpg">AI-Driven in Maritime Management</a>”客座编辑。
 - 审稿人《Journal of Environmental Management》（IF=8.4, JCR Q1, 中科院二区Top）
