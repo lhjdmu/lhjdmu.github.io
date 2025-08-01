@@ -40,11 +40,11 @@ redirect_from:
 
 # 📝 代表性学术论文
 
--	`Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J]. <b>Ocean Engineering</b>, 2025, 321: 120454. (SCI Q1)
+-	`Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J].<i><b>Ocean Engineering</b></i>, 2025, 321: 120454. (SCI Q1)
 [[网页]](https://doi.org/10.1016/j.oceaneng.2025.120454)
--	`Li Haijiang*`, Zhang Xin, Jia Peng, et al. Research on the Pattern and Evolution Characteristics of Global Dry Bulk Shipping Network Driven by Big Data[J]. <b>Journal of Marine Science and Engineering</b>, 2025, 13(1): 147. (SCI Q2)
+-	`Li Haijiang*`, Zhang Xin, Jia Peng, et al. Research on the Pattern and Evolution Characteristics of Global Dry Bulk Shipping Network Driven by Big Data[J]. <i><b>Journal of Marine Science and Engineering</b></i>, 2025, 13(1): 147. (SCI Q2)
 [[网页]](https://doi.org/10.3390/jmse13010147)
--	`Li Haijiang`, Jia Peng, Wang Xinjian, et al. Ship carbon dioxide emission estimation in coastal domestic emission control areas using high spatial-temporal resolution data: A China case[J]. <b>Ocean & Coastal Management</b>, 2023, 232: 106419. (SCI Q1)
+-	`Li Haijiang`, Jia Peng, Wang Xinjian, et al. Ship carbon dioxide emission estimation in coastal domestic emission control areas using high spatial-temporal resolution data: A China case[J]. <i><b>Ocean & Coastal Management</b></i>, 2023, 232: 106419. (SCI Q1)
 [[网页]](https://doi.org/10.1016/j.ocecoaman.2022.106419)
 
 
