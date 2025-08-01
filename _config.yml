@@ -26,38 +26,14 @@ author:
   avatar           : "images/头像.png"
   bio              : "大连海事大学"
   location         : "辽宁 大连"
-  # employer         : #"Hefei General Machinery Research Institute"
-  # pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "haijiang@dlmu.edu.cn"
-  #researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : https://lhjdmu.github.io/
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  # dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  # googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   # github           : "lhjdmu"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   # orcid            : "https://orcid.org/0000-0001-9658-209X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
