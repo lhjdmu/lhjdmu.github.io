@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 李海江 副教授
-大连海事大学硕士生导师，大连市高层次人才（青年才俊）。主持国家重点研发计划子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
+大连海事大学硕士生导师，大连市高层次人才（青年才俊）。主持国家重点研发计划项目子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
 
 所在院系：航运经济与管理学院 <a href="http://www.cicts-dmu.com/">综合交通运输协同创新中心</a><br>
 办公邮箱：haijiang@dlmu.edu.cn <br>
@@ -26,9 +26,9 @@ redirect_from:
 
 <span class='anchor' id='-yjfx'></span>
 # 📊 研究方向
-- 智慧航运：船舶排放、海上航路网络、航运大数据、智能船舶避碰
-- 智慧港口：港口作业调度优化
-- 航海仿真：流体物理仿真、三维渲染
+- 航运：船舶排放核算与减排优化、海上航路网络与通道韧性、航运大数据分析与挖掘、自主船舶避碰与路径规划
+- 港口：干散货港口资源优化配置、干散货港口作业流程优化
+- 计算机：海洋场景物理仿真、三维渲染
 
 <span class='anchor' id='-zsfx'></span>
 # 🎓 招生方向
@@ -69,6 +69,7 @@ redirect_from:
 [[网页]](https://doi.org/10.1016/j.trc.2024.104749)
 -	Zhao Xueting, Jia Peng, `Li Haijiang`, et al. Allocating carbon emissions from crude oil tanker shipping: Full voyage lifecycle perspective[J]. <i><b>Transportation Research Part D: Transport and Environment</b></i>, 2025, 147: 104919. (SCI Q1)
 [[网页]](https://doi.org/10.1016/j.trd.2025.104919)
+- Li Yuze#, Jia Peng#, Jiang Shangrong#, `Li Haijiang`, et al. The climate impact of high seas shipping[J]. National Science Review, 2023, 10(3): nwac279. (SCI Q1)[[网页]](https://doi.org/10.1093/nsr/nwac279)
 
 2.<b>发明专利</b><br>
 -	陶瑞,任鸿翔,`李海江`,等. 船用二氧化碳灭火器喷雾模拟方法[P]. 发明专利, 受理, CN202410888415.0, 2024.07.30.。
@@ -78,19 +79,26 @@ redirect_from:
 - 赵宇哲,匡海波,贾鹏,韩兵,`李海江`,杨彦博,刘芳名,亿海蓝（北京）数据技术股份公司. 基于AIS大数据的船舶污染排放实时监测平台[简称:排污监测]V1.0, 2023SR1200496, 原始取得, 全部权利, 2022-10-30.
 - 匡海波,贾鹏,赵宇哲,韩兵,`李海江`,杨彦博,刘芳名,亿海蓝（北京）数据技术股份公司. 东北亚港口监测分析系统[简称:港口监测]V1.0, 2023SR1199866, 原始取得, 全部权利, 2022-12-1.
 
+4.<b>论文审稿</b><br>
+-	*2025.10.31-2026.5.31*，担任《Maritime Policy & Management》（IF=3.6, JCR SSCI Q2）特刊“<a href="https://lhjdmu.github.io/images/mpmsi.jpg" download="beautiful_cat.jpg">AI-Driven in Maritime Management</a>”客座编辑。
+- 审稿人《Journal of Environmental Management》（IF=8.4, JCR Q1, 中科院二区Top）
+-	审稿人《Ocean Engineering》（IF=5.5, JCR Q1, 中科院二区Top）
+-	审稿人《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
+-	审稿人《Journal of Marine Science and Engineering》（IF=2.8, JCR Q2）
+
 <span class='anchor' id='-kyxm'></span>
 # 📃 科研项目
-- 科学技术部, 国家重点研发计划项目子课题, 知识驱动的协同群体智能求解器设计, 2023, 80W, `主持`.
+- 科学技术部, 国家重点研发计划项目（大型海港干散货装卸作业过程智能化技术）子课题, 知识驱动的协同群体智能求解器设计, 2023, 80W, `主持`.
 - 辽宁省社会科学规划基金办公室，辽宁省社会科学规划基金项目(<b>重点项目</b>),“双碳”战略下大数据驱动的辽宁港口减排策略研究, 2021, 2W, `主持`.
-- 国家自然科学基金委员会, 国家自然科学基金面上项目, 一体化运营格局下区域港群集约优化及治理策略研究, 2022-2025，48W, 技术骨干.
-- 科学技术部，国家重点研发技术项目，多式联运智能集成技术与装备开发，2019-2022，9779W，技术骨干.
+- 国家自然科学基金委员会, 国家自然科学基金面上项目, 一体化运营格局下区域港群集约优化及治理策略研究, 2022-2025，48W, `技术骨干`.
+- 科学技术部，国家重点研发技术项目，多式联运智能集成技术与装备开发，2019-2022，9779W，`技术骨干`.
 
 <span class='anchor' id='-kypt'></span>
 # 🏢 科研平台
 - 国家级：水路交通控制全国重点实验室(大连)
 - 省部级：综合交通运输智能技术与装备教育部工程研究中心[[网站]](https://gczx.portal.dasc.org.cn/)，党建工作部，部长
-- 省部级：辽宁省综合交通运输大数据重点实验室
 - 省部级：大连东北亚国际航运中心研究院[[网站]](http://www.dasc.org.cn/)
+- 省部级：辽宁省综合交通运输大数据重点实验室
 
 <span class='anchor' id='-ryjx'></span>
 # 🏅 荣誉奖项
@@ -99,12 +107,6 @@ redirect_from:
 - *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践.
 
-<span class='anchor' id='-lwsg'></span>
-# 📰 论文审稿
--	*2025.10.31-2026.5.31*，担任《Maritime Policy & Management》（IF=3.6, JCR SSCI Q2）特刊“<a href="https://lhjdmu.github.io/images/mpmsi.jpg" download="beautiful_cat.jpg">AI-Driven in Maritime Management</a>”客座编辑。
-- 审稿人《Journal of Environmental Management》（IF=8.4, JCR Q1, 中科院二区Top）
--	审稿人《Ocean Engineering》（IF=5.5, JCR Q1, 中科院二区Top）
--	审稿人《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
--	审稿人《Journal of Marine Science and Engineering》（IF=2.8, JCR Q2）
+
 
 
