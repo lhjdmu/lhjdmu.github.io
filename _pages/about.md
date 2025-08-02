@@ -54,8 +54,9 @@ redirect_from:
 - 本科生课程：智慧供应链（大二上）、冷链供应链（大三上）
 - 研究生课程：Python数据分析与可视化（研一上）
 
-<span class='anchor' id='-xslw'></span>
-# 📝 代表性学术论文
+<span class='anchor' id='-lwzl'></span>
+# 📝 论文专利
+1.<b>代表性学术论文</b><br>
 -	`Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J].<i><b>Ocean Engineering</b></i>, 2025, 321: 120454. (SCI Q1)
 [[网页]](https://doi.org/10.1016/j.oceaneng.2025.120454)
 -	`Li Haijiang*`, Zhang Xin, Jia Peng, et al. Research on the Pattern and Evolution Characteristics of Global Dry Bulk Shipping Network Driven by Big Data[J]. <i><b>Journal of Marine Science and Engineering</b></i>, 2025, 13(1): 147. (SCI Q2)
@@ -69,15 +70,23 @@ redirect_from:
 -	Zhao Xueting, Jia Peng, `Li Haijiang`, et al. Allocating carbon emissions from crude oil tanker shipping: Full voyage lifecycle perspective[J]. <i><b>Transportation Research Part D: Transport and Environment</b></i>, 2025, 147: 104919. (SCI Q1)
 [[网页]](https://doi.org/10.1016/j.trd.2025.104919)
 
+2.<b>发明专利</b><br>
+-	陶瑞,任鸿翔,`李海江`,等. 船用二氧化碳灭火器喷雾模拟方法[P]. 发明专利, 受理, CN202410888415.0, 2024.07.30.。
+- 王新建,李键,冯胤伟,王津,栾建霖,`李海江`,杨再励,刘正江. 一种解决在突发事件影响下的船舶排放时间序列预测方法[P]. 发明专利, 受理, 2024.08.02.
+
+3.<b>软件著作权</b><br>
+- 赵宇哲,匡海波,贾鹏,韩兵,`李海江`,杨彦博,刘芳名,亿海蓝（北京）数据技术股份公司. 基于AIS大数据的船舶污染排放实时监测平台[简称:排污监测]V1.0, 2023SR1200496, 原始取得, 全部权利, 2022-10-30.
+- 匡海波,贾鹏,赵宇哲,韩兵,`李海江`,杨彦博,刘芳名,亿海蓝（北京）数据技术股份公司. 东北亚港口监测分析系统[简称:港口监测]V1.0, 2023SR1199866, 原始取得, 全部权利, 2022-12-1.
+
 <span class='anchor' id='-kyxm'></span>
-# 📃 代表性科研项目
+# 📃 科研项目
 - 科学技术部, 国家重点研发计划项目子课题, 知识驱动的协同群体智能求解器设计, 2023, 80W, `主持`.
 - 辽宁省社会科学规划基金办公室，辽宁省社会科学规划基金项目(<b>重点项目</b>),“双碳”战略下大数据驱动的辽宁港口减排策略研究, 2021, 2W, `主持`.
 - 国家自然科学基金委员会, 国家自然科学基金面上项目, 一体化运营格局下区域港群集约优化及治理策略研究, 2022-2025，48W, 技术骨干.
 - 科学技术部，国家重点研发技术项目，多式联运智能集成技术与装备开发，2019-2022，9779W，技术骨干.
 
 <span class='anchor' id='-kypt'></span>
-# 🏢 所在科研平台
+# 🏢 科研平台
 - 国家级：水路交通控制全国重点实验室(大连)
 - 省部级：综合交通运输智能技术与装备教育部工程研究中心[[网站]](https://gczx.portal.dasc.org.cn/)，党建工作部，部长
 - 省部级：辽宁省综合交通运输大数据重点实验室
@@ -97,15 +106,5 @@ redirect_from:
 -	审稿人《Ocean Engineering》（IF=5.5, JCR Q1, 中科院二区Top）
 -	审稿人《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
 -	审稿人《Journal of Marine Science and Engineering》（IF=2.8, JCR Q2）
-
-<span class='anchor' id='-fmzl'></span>
-# 📰 发明专利
--	陶瑞,任鸿翔,`李海江`,等. 船用二氧化碳灭火器喷雾模拟方法[P]. 发明专利, 受理, CN202410888415.0, 2024.07.30.。
-- 王新建,李键,冯胤伟,王津,栾建霖,`李海江`,杨再励,刘正江. 一种解决在突发事件影响下的船舶排放时间序列预测方法[P]. 发明专利, 受理, 2024.08.02.
-
-<span class='anchor' id='-rjzzq'></span>
-# 📰 软件著作权
-- 赵宇哲,匡海波,贾鹏,韩兵,`李海江`,杨彦博,刘芳名,亿海蓝（北京）数据技术股份公司. 基于AIS大数据的船舶污染排放实时监测平台[简称:排污监测]V1.0, 2023SR1200496, 原始取得, 全部权利, 2022-10-30.
-- 匡海波,贾鹏,赵宇哲,韩兵,`李海江`,杨彦博,刘芳名,亿海蓝（北京）数据技术股份公司. 东北亚港口监测分析系统[简称:港口监测]V1.0, 2023SR1199866, 原始取得, 全部权利, 2022-12-1.
 
 
