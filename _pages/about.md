@@ -69,7 +69,7 @@ redirect_from:
 [[网页]](https://doi.org/10.1016/j.trc.2024.104749)
 -	Zhao Xueting, Jia Peng, `Li Haijiang`, et al. Allocating carbon emissions from crude oil tanker shipping: Full voyage lifecycle perspective[J]. <i><b>Transportation Research Part D: Transport and Environment</b></i>, 2025, 147: 104919. (SCI Q1)
 [[网页]](https://doi.org/10.1016/j.trd.2025.104919)
-- Li Yuze#, Jia Peng#, Jiang Shangrong#, `Li Haijiang`, et al. The climate impact of high seas shipping[J]. National Science Review, 2023, 10(3): nwac279. (SCI Q1)[[网页]](https://doi.org/10.1093/nsr/nwac279)
+- Li Yuze#, Jia Peng#, Jiang Shangrong#, `Li Haijiang`, et al. The climate impact of high seas shipping[J]. <i><b>National Science Review</b></i>, 2023, 10(3): nwac279. (SCI Q1)[[网页]](https://doi.org/10.1093/nsr/nwac279)
 
 2.<b>发明专利</b><br>
 -	陶瑞,任鸿翔,`李海江`,等. 船用二氧化碳灭火器喷雾模拟方法[P]. 发明专利, 受理, CN202410888415.0, 2024.07.30.。
@@ -106,6 +106,7 @@ redirect_from:
 - *2024.12* 荣获 中国交通运输协会科技进步`特等奖`，海公铁联运数智服务关键技术及装备研发与应用.[[新闻]](https://news.dlmu.edu.cn/info/1356/783107.htm)
 - *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践.
+
 
 
 
