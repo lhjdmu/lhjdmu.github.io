@@ -57,19 +57,13 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 # 📝 论文专利
 1.<b>代表性学术论文</b><br>
--<span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025 SCI Q1</span> `Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J].<i><b>Ocean Engineering</b></i>, 2025, 321: 120454. (SCI Q1)
-[[网页]](https://doi.org/10.1016/j.oceaneng.2025.120454)
--	`Li Haijiang*`, Zhang Xin, Jia Peng, et al. Research on the Pattern and Evolution Characteristics of Global Dry Bulk Shipping Network Driven by Big Data[J]. <i><b>Journal of Marine Science and Engineering</b></i>, 2025, 13(1): 147. (SCI Q2)
-[[网页]](https://doi.org/10.3390/jmse13010147)
--	`Li Haijiang`, Jia Peng*, Wang Xinjian, et al. Ship carbon dioxide emission estimation in coastal domestic emission control areas using high spatial-temporal resolution data: A China case[J]. <i><b>Ocean & Coastal Management</b></i>, 2023, 232: 106419. (SCI Q1)
-[[网页]](https://doi.org/10.1016/j.ocecoaman.2022.106419)
--	Si Ruibin, Jia Peng*, `Li Haijiang*`, et al. Assessing the structural resilience of the global crude oil maritime transportation network: A motif-based approach from network to ports[J]. <i><b>Journal of Transport Geography</b></i>, 2025, 123: 104123. (SCI Q1)
-[[网页]](https://doi.org/10.1016/j.jtrangeo.2025.104123)
--	Feng Yinwei, Wang Xinjian*, Luan Jianlin, Wang Hua,`Li Haijiang*`, et al. A novel method for ship carbon emissions prediction under the influence of emergency events[J]. <i><b>Transportation Research Part C: Emerging Technologies</b></i>, 2024, 165: 104749.(SCI Q1)
-[[网页]](https://doi.org/10.1016/j.trc.2024.104749)
--	Zhao Xueting, Jia Peng, `Li Haijiang`, et al. Allocating carbon emissions from crude oil tanker shipping: Full voyage lifecycle perspective[J]. <i><b>Transportation Research Part D: Transport and Environment</b></i>, 2025, 147: 104919. (SCI Q1)
-[[网页]](https://doi.org/10.1016/j.trd.2025.104919)
-- Li Yuze#, Jia Peng#, Jiang Shangrong#, `Li Haijiang`, et al. The climate impact of high seas shipping[J]. <i><b>National Science Review</b></i>, 2023, 10(3): nwac279. (SCI Q1)[[网页]](https://doi.org/10.1093/nsr/nwac279)
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025 SCI Q1</span> `Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J].<i><b>Ocean Engineering</b></i>, 2025, 321: 120454. [[网页]](https://doi.org/10.1016/j.oceaneng.2025.120454)
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025 SCI Q2</span>	`Li Haijiang*`, Zhang Xin, Jia Peng, et al. Research on the Pattern and Evolution Characteristics of Global Dry Bulk Shipping Network Driven by Big Data[J]. <i><b>Journal of Marine Science and Engineering</b></i>, 2025, 13(1): 147. [[网页]](https://doi.org/10.3390/jmse13010147)
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025 SCI Q1</span>	Si Ruibin, Jia Peng*, `Li Haijiang*`, et al. Assessing the structural resilience of the global crude oil maritime transportation network: A motif-based approach from network to ports[J]. <i><b>Journal of Transport Geography</b></i>, 2025, 123: 104123. [[网页]](https://doi.org/10.1016/j.jtrangeo.2025.104123)
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025 SCI Q1</span>	Zhao Xueting, Jia Peng, `Li Haijiang`, et al. Allocating carbon emissions from crude oil tanker shipping: Full voyage lifecycle perspective[J]. <i><b>Transportation Research Part D: Transport and Environment</b></i>, 2025, 147: 104919. [[网页]](https://doi.org/10.1016/j.trd.2025.104919)
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024 SCI Q1</span>	Feng Yinwei, Wang Xinjian*, Luan Jianlin, Wang Hua,`Li Haijiang*`, et al. A novel method for ship carbon emissions prediction under the influence of emergency events[J]. <i><b>Transportation Research Part C: Emerging Technologies</b></i>, 2024, 165: 104749. [[网页]](https://doi.org/10.1016/j.trc.2024.104749)
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2023 SCI Q1</span>	`Li Haijiang`, Jia Peng*, Wang Xinjian, et al. Ship carbon dioxide emission estimation in coastal domestic emission control areas using high spatial-temporal resolution data: A China case[J]. <i><b>Ocean & Coastal Management</b></i>, 2023, 232: 106419. [[网页]](https://doi.org/10.1016/j.ocecoaman.2022.106419)
+- <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2023 SCI Q1</span> Li Yuze#, Jia Peng#, Jiang Shangrong#, `Li Haijiang`, et al. The climate impact of high seas shipping[J]. <i><b>National Science Review</b></i>, 2023, 10(3): nwac279. [[网页]](https://doi.org/10.1093/nsr/nwac279)
 
 2.<b>发明专利</b><br>
 -	陶瑞,任鸿翔,`李海江`,等. 船用二氧化碳灭火器喷雾模拟方法[P]. 发明专利, 受理, CN202410888415.0, 2024.07.30.。
@@ -107,6 +101,7 @@ redirect_from:
 - *2024.12* 荣获 中国交通运输协会科技进步`特等奖`，海公铁联运数智服务关键技术及装备研发与应用.[[新闻]](https://news.dlmu.edu.cn/info/1356/783107.htm)
 - *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践.
+
 
 
 
