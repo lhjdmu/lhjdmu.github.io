@@ -57,7 +57,7 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 # 📝 论文专利
 1.<b>代表性学术论文</b><br>
--	`Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J].<i><b>Ocean Engineering</b></i>, 2025, 321: 120454. (SCI Q1)
+-<span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025 SCI Q1</span> `Li Haijiang*`, Li Shenyi, Jia Peng, et al. Integrated optimization of berth and unloader allocation at dry bulk ports considering load reduction and berth shifting[J].<i><b>Ocean Engineering</b></i>, 2025, 321: 120454. (SCI Q1)
 [[网页]](https://doi.org/10.1016/j.oceaneng.2025.120454)
 -	`Li Haijiang*`, Zhang Xin, Jia Peng, et al. Research on the Pattern and Evolution Characteristics of Global Dry Bulk Shipping Network Driven by Big Data[J]. <i><b>Journal of Marine Science and Engineering</b></i>, 2025, 13(1): 147. (SCI Q2)
 [[网页]](https://doi.org/10.3390/jmse13010147)
@@ -107,6 +107,7 @@ redirect_from:
 - *2024.12* 荣获 中国交通运输协会科技进步`特等奖`，海公铁联运数智服务关键技术及装备研发与应用.[[新闻]](https://news.dlmu.edu.cn/info/1356/783107.htm)
 - *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践.
+
 
 
 
