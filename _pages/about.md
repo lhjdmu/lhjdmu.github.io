@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 李海江 副教授
-大连海事大学硕士生导师，大连市高层次人才（青年才俊）。主持国家重点研发计划项目子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
+大连海事大学硕士生导师，大连市高层次人才（青年才俊），中国系统工程学会港航经济系统工程专委会副秘书长。主持国家重点研发计划项目子课题1项、辽宁省社会科学规划基金重点项目1项。在National Science Review, Ocean Engineering, Journal of Transport Geography, Transportation Research Part C/D, 船舶力学, 系统工程理论与实践, 科研管理等国内外知名期刊发表学术论文20余篇。作为主要参与人，荣获中国交通运输协会科技进步特等奖1项，中国航海学会科技进步一等奖1项，中国物流与采购联合会科技进步一等奖1项。受理/授权发明专利3项，登记软件著作权3项。
 
 所在院系：航运经济与管理学院 <a href="http://www.cicts-dmu.com/">综合交通运输协同创新中心</a><br>
 办公邮箱：haijiang@dlmu.edu.cn <br>
@@ -80,6 +80,9 @@ redirect_from:
 -	审稿人《Regional Studies in Marine Science》（IF=2.4, JCR Q1）
 -	审稿人《Journal of Marine Science and Engineering》（IF=2.8, JCR Q2）
 
+5.<b>学术活动</b><br>
+-	*2025.11.21-23*，珠海：第五届港航经济系统工程年会暨第三届交通与供应链韧性与数字化会议，程序委员会副主席。
+
 <span class='anchor' id='-kyxm'></span>
 # 📃 科研项目
 - 科学技术部, 国家重点研发计划项目（大型海港干散货装卸作业过程智能化技术）子课题, 知识驱动的协同群体智能求解器设计, 2023, 80W, `主持`.
@@ -101,6 +104,7 @@ redirect_from:
 - *2024.12* 荣获 中国交通运输协会科技进步`特等奖`，海公铁联运数智服务关键技术及装备研发与应用.[[新闻]](https://news.dlmu.edu.cn/info/1356/783107.htm)
 - *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践.
+
 
 
 
