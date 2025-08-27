@@ -1,4 +1,4 @@
-<img width="668" height="70" alt="image" src="https://github.com/user-attachments/assets/122dcaa8-2174-443a-8a3f-60189103889e" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -107,6 +107,7 @@ redirect_from:
 - *2024.12* 荣获 中国交通运输协会科技进步`特等奖`，海公铁联运数智服务关键技术及装备研发与应用.[[新闻]](https://news.dlmu.edu.cn/info/1356/783107.htm)
 - *2024.08* 荣获 中国物流与采购联合会科技进步`一等奖`，面向化工品公铁联运的全链式数智服务技术与系统装备.[[新闻]](https://www.dlmu.edu.cn/info/2505/163958.htm)
 - *2020.12* 荣获 辽宁省教学成果奖`二等奖`，“虚实结合 训评一体 多科协同”的航海综合实训教学平台建设与实践.
+
 
 
 
